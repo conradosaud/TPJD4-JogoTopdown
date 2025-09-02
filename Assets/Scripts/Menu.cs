@@ -22,7 +22,6 @@ public class Menu : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
 
-
     }
 
 }
